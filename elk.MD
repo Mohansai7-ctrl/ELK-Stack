@@ -195,7 +195,7 @@ type=rpm-md
 yum install logstash -y
 ```
 
-2. Configure logstash input and output
+2. Configure logstash input and output.
 
 ```
 vim /etc/logstash/conf.d/logstash.conf
